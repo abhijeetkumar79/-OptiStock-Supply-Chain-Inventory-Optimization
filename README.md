@@ -75,4 +75,4 @@ Data modeling and KPI design in Power BI
 Translating data into actionable business insights
 Building dashboards for operational decision-making
 🔗 Project Links
-📁 GitHub Repository: [Add your link]
+📁 GitHub Repository: https://github.com/abhijeetkumar79/-OptiStock-Supply-Chain-Inventory-Optimization.git
